@@ -1,4 +1,6 @@
-This is the third project in the “Node.js – So simple a kid can do it” article.  
+This is the third project in the “Build your first Node.js website Node.js" 
+article.  http://www.ibm.com/developerworks/library/wa-simplenode3-app/index.html
+
 This project is designed to add Redis database persistence to your application. 
 This is a node.js with express server, extended with a user count variable stored in Redis.  
 The Redis code is written to account for the asynchronous calls.
